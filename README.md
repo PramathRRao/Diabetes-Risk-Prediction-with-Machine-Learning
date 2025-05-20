@@ -1,6 +1,6 @@
 # Diabetes-Risk-Prediction-with-Machine-Learning
 
-Project title : A Data-Driven Approach to Diabetes Risk Prediction Using Big Data and Machine Learning
+
 
 Overview: Using machine learning approaches, this study examines diabetes prevalence in relation to numerous demographic parameters such as age, income, and smoking behaviors. It comprises data pretreatment, feature engineering, exploratory data analysis (EDA), and predictive model training. The project is developed and performed using Databricks.
 
